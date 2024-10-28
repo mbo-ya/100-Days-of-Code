@@ -8,7 +8,7 @@ The BMI is calculated by dividing a person's weight (in kg) by the square of the
 BMI = weight (kg) / height^2 (m^2)
 ```
 
-Interpretations:
+### Interpretations:
 * Under 18.5 they are **underweight**
 * Over 18.5 but below 25, they have a **normal weight**
 * Over 25 but below 30, they are **overweight**
